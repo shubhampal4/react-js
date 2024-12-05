@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: jinks07/react-js:37
+        image: jinks07/react-js:40
         ports:
           - containerPort: 3000
